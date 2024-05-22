@@ -4,7 +4,8 @@
         "start": "node build/src/index",
         "dev": "nodemon",
         "dev:index": "nodemon --watch src --ext ts --exec ts-node src/index.ts",
-        "dev:ejercicio1": "nodemon --watch src --ext ts --exec ts-node src/ejercicio1.ts"
+        "dev:ejercicio1": "nodemon --watch src --ext ts --exec ts-node src/ejercicio1.ts",
+        "dev:ejercicio2": "nodemon --watch src --ext ts --exec ts-node src/ejercicio2.ts"
     },
     "devDependencies": {
         "nodemon": "^3.1.0",
