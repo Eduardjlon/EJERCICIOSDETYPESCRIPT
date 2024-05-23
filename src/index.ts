@@ -1,1 +1,1 @@
-console.log("Prueba")
+console.log("EJERCICIO 1 Y 3 SON LOS MISMSOS")

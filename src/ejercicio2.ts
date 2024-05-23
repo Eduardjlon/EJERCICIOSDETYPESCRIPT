@@ -12,7 +12,7 @@ function getElementAtPosition(array: any[], position: number): any {
     }
 }
 
-// Ejemplo de uso:
+// Ejemplo de uso: el orden es de 0 a 4
 const miArray = ["a", "b", "c", "d", "e"];
 
 console.log(getElementAtPosition(miArray, 0)); // Acá tirara el arreglo posicion 2 que es C
