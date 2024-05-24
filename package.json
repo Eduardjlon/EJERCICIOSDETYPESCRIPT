@@ -6,6 +6,7 @@
         "dev:index": "nodemon --watch src --ext ts --exec ts-node src/index.ts",
         "dev:ejercicio1": "nodemon --watch src --ext ts --exec ts-node src/ejercicio1.ts",
         "dev:ejercicio2": "nodemon --watch src --ext ts --exec ts-node src/ejercicio2.ts",
+        "dev:ejercicio3": "nodemon --watch src --ext ts --exec ts-node src/ejercicio3.ts",
         "dev:ejercicio4": "nodemon --watch src --ext ts --exec ts-node src/ejercicio4.ts",
         "dev:ejercicio5": "nodemon --watch src --ext ts --exec ts-node src/ejercicio5.ts",
         "dev:ejercicio6": "nodemon --watch src --ext ts --exec ts-node src/ejercicio6.ts"
